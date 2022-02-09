@@ -6,7 +6,8 @@ Olá, me chamo Kauã Sabino. Tenho 16 anos, e estou no 3º ano do curso de Desen
 -------------------
 
 ## Contato
-<a href="https://www.instagram.com/_kaua.sabino_/">![Instagram](https://img.shields.io/badge/Kaua.Sabino-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
+<a href="https://www.instagram.com/_kaua.sabino_/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
+<a href="mailto:sabinokaua30@gmail.com?subject=Hello">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 -------------------
 
@@ -23,8 +24,8 @@ Olá, me chamo Kauã Sabino. Tenho 16 anos, e estou no 3º ano do curso de Desen
   
 -------------------
   
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=KauaSabino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=KauaSabino&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![LachlanDev github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaSabino&layout=compact&langs_count=6&theme=tokyonight)
+![LachlanDev github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaSabino&layout=compact&langs_count=6&theme=radical)
 
  <div>
