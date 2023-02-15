@@ -24,8 +24,6 @@ Olá, me chamo Kauã Sabino. Tenho 17 anos, e acabo de concluir o curso de Desen
   
 -------------------
   
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=KauaSabino&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![LachlanDev github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaSabino&layout=compact&langs_count=6&theme=radical)
 
  <div>
