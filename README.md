@@ -1,7 +1,7 @@
 <div align="center">
   
 ## Sobre Mim
-Olá, me chamo Kauã Sabino. Tenho 16 anos, e estou no 3º ano do curso de Desenvolvimentos de Sistemas na Etec. Focado no estudo de desenvolvimento Front-End Web.
+Olá, me chamo Kauã Sabino. Tenho 17 anos, e acabo de concluir o curso de Desenvolvimentos de Sistemas na Etec. Focado no estudo de desenvolvimento Front-End Web.
 
 -------------------
 
